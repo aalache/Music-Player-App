@@ -41,7 +41,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Music App"),
+        title: const Text("Music App"),
       ),
       body: ListView.builder(
         physics: const BouncingScrollPhysics(),

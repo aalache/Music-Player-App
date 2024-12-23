@@ -2,7 +2,7 @@ import 'dart:typed_data';
 
 import 'package:audio_service/audio_service.dart';
 import 'package:flutter/material.dart';
-import 'package:get/get_core/src/get_main.dart';
+// import 'package:get/get_core/src/get_main.dart';
 import 'package:musicplayer/pages/player_page.dart';
 import 'package:musicplayer/services/fetch_songs.dart';
 import 'package:musicplayer/services/my_audio_handler.dart';
